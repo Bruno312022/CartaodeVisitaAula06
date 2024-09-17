@@ -1,0 +1,24 @@
+header{
+    background-color: rgba(30, 101, 207, 0.678);
+    color: rgb(31, 29, 29);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+header h1 {
+    color: red;
+}
+
+nav{
+    background: linear-gradient(rgb(110, 168, 253), rgb(0, 0, 0));
+}
+
+footer{
+    background: linear-gradient(rgb(255, 230, 0), rgb(188, 248, 161));
+    text-align: center;
+    border-radius: 25%;
+}
+ img{
+    border-radius: 45%;
+ }
